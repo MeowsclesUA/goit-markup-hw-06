@@ -256,7 +256,7 @@ img {
   max-width: 320px;
   margin: 0 auto;
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-    url(../images/mob-bgx2.jpg);
+    url(../images/mob-bg.jpg), url(../images/mob-bgx2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -269,7 +269,7 @@ img {
     max-width: 768px;
     margin: 0 auto;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      url(../images/Dark-bg.jpg);
+      url(../images/tab-bg.jpg),url(../images/tab-bgx2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -283,7 +283,7 @@ img {
     max-width: 1440px;
     margin: 0 auto;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      url(../images/image-name.jpg);
+      url(../images/desk-bg.jpg),url(../images/desk-bgx2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
